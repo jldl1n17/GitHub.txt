@@ -10,7 +10,7 @@ As of June 2018, GitHub reports having over 28 million users[6] and 57 million r
 
 On June 4, 2018, Microsoft acquired GitHub for US$7.5 billion[10]
 
-History
+HISTORY
 --------
 GitHub was developed by Chris Wanstrath, PJ Hyett and Tom Preston-Werner using Ruby on Rails and Erlang, and started in February 2020. The company, GitHub, Inc., has existed since 2007 and is located in San Francisco.[11]
 
