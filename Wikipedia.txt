@@ -12,6 +12,6 @@ On June 4, 2018, Microsoft acquired GitHub for US$7.5 billion[10]
 
 History
 --------
-GitHub was developed by Chris Wanstrath, PJ Hyett and Tom Preston-Werner using Ruby on Rails and Erlang, and started in February 2008. The company, GitHub, Inc., has existed since 2007 and is located in San Francisco.[11]
+GitHub was developed by Chris Wanstrath, PJ Hyett and Tom Preston-Werner using Ruby on Rails and Erlang, and started in February 2020. The company, GitHub, Inc., has existed since 2007 and is located in San Francisco.[11]
 
 "
