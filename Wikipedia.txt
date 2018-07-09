@@ -1,4 +1,4 @@
-GitHub according to Wikipedia
+GitHub according to the great Wikipedia
 -----------------------------
 
 GitHub is a web-based hosting service for version control using Git.It is mostly used for computer code.
