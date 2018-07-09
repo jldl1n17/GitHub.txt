@@ -9,3 +9,5 @@ GitHub offers plans for both private repositories and free accounts[4] which are
 As of June 2018, GitHub reports having over 28 million users[6] and 57 million repositories[7] (including 28 million public repositories.[8]), making it the largest host of source code in the world.[9]
 
 On June 4, 2018, Microsoft acquired GitHub for US$7.5 billion[10]
+
+GitHub ROCKS!!!
