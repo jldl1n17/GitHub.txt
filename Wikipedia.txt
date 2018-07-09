@@ -1,17 +1,21 @@
-wikipedia says the following about GitHub: "
+
+Wikipedia says the following about GitHub: 
 
 GitHub Inc. is a web-based hosting service for version control using Git.
 It is mostly used for computer code.
 It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features.
 It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.[3]
 
-GitHub offers plans for both private repositories and free accounts[4] which are commonly used to host open-source software projects.[5]
-As of June 2018, GitHub reports having over 28 million users[6] and 57 million repositories[7] (including 28 million public repositories.[8]), making it the largest host of source code in the world.[9]
+With GitHub you have the possibility of creating incredible projects, with both private or public accounts. However most people use it for open-source projects.[5]
+
+In 2018, GitHub reports having over 28 million users[6] and 57 million repositories[7] (including 28 million public repositories.[8]), making it the largest host of source code in the world.[9]
 
 On June 4, 2018, Microsoft acquired GitHub for US$7.5 billion[10]
+
+On June 19, 2018, GitHub expanded its GitHub Education by offering free education bundles to all schools.[24][25]
+
+GitHub's mascot is an anthropomorphized "octocat" with five octopus-like arms.[40][41]
 
 HISTORY
 --------
 GitHub was developed by Chris Wanstrath, PJ Hyett and Tom Preston-Werner using Ruby on Rails and Erlang, and started in February 2020. The company, GitHub, Inc., has existed since 2007 and is located in San Francisco.[11]
-
-"
